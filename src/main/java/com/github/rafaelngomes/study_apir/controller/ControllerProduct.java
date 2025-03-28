@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.github.rafaelngomes.study_apir.dto.ProductRequestCreate;
 import com.github.rafaelngomes.study_apir.dto.ProductRequestUpdate;
 import com.github.rafaelngomes.study_apir.dto.ProductResponse;
-import com.github.rafaelngomes.study_apir.model.Product;
 import com.github.rafaelngomes.study_apir.service.ProductService;
 
 @RestController
