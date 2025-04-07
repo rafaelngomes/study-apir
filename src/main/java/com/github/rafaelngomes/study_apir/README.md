@@ -2,13 +2,9 @@
 
 API Java para estudo de Spring Boot
 
-## Docker
+## MER
 
-docker pull ubuntu
-docker images
-docker pull debian
-
-*Repositorio
+![](assets/images/mer.png)
 
 ## Instalação
 
